@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "vitest run"
-  },
+  "test": "vitest run",
+  "build": "tsc"},
   "keywords": [],
   "author": "",
   "license": "ISC",
